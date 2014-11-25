@@ -1,8 +1,8 @@
 <doctype html>
 <head></head>
 <body>
-<code>
-{
+<script>
+var resume = JSON.stringify({
     "Name": "Rohit Kumar Choudhary",
     "phone": "+91-9971940271",
     "email": "mrohitchoudhary@gmail.com, rohitatmail@yahoo.com",
@@ -68,6 +68,8 @@
         "facebook": "rohitatfacebuk",
         "github": "echorohit"
     }
-}
-</code>
+},null, 4);
+document.getElementById("resume-container").innerHTML(resume);
+</script>
+<div id="resume-container"></div>
 </body>
