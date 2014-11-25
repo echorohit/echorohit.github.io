@@ -1,8 +1,15 @@
-<doctype html>
-<head></head>
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>Resume: Rohit Kumar Choudhary</title>
+
+</head>
+<style type="text/css">
+	body { white-space: pre; font-family: monospace; }
+</style>
 <body>
-<script>
-var resume = JSON.stringify({
+<script type="text/javascript">
+	var resume = JSON.stringify({
     "Name": "Rohit Kumar Choudhary",
     "phone": "+91-9971940271",
     "email": "mrohitchoudhary@gmail.com, rohitatmail@yahoo.com",
@@ -69,7 +76,8 @@ var resume = JSON.stringify({
         "github": "echorohit"
     }
 },null, 4);
-document.getElementById("resume-container").innerHTML(resume);
+document.body.innerHTML = "";
+document.body.appendChild(document.createTextNode(JSON.stringify(resume, null, 4)));	
 </script>
-<div id="resume-container"></div>
 </body>
+</html>
