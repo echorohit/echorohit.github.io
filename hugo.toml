@@ -1,22 +1,21 @@
 baseURL = 'https://echorohit.github.io/'
 languageCode = 'en-us'
-title = 'Rohit Kumar Choudhary'
+title = 'Rohit Choudhary'
 theme = 'PaperMod'
 
 [params]
   homeInfoParams.Title = "Hi there 👋"
-  homeInfoParams.Content = "Welcome to my digital resume and portfolio"
+  homeInfoParams.Content = "Principal Engineer specializing in MLOps, GenAI platforms, and scalable cloud-native architectures"
   
   profileMode.enabled = true
-  profileMode.title = "Rohit Kumar Choudhary"
-  profileMode.subtitle = "Software Engineer | Backend Architecture | PHP Developer"
+  profileMode.title = "Rohit Choudhary"
+  profileMode.subtitle = "Principal Software Engineer | MLOps & GenAI Specialist | 12+ Years Experience"
   profileMode.imageUrl = "https://github.com/echorohit.png"
-  profileMode.imageTitle = "Rohit Kumar Choudhary"
+  profileMode.imageTitle = "Rohit Choudhary"
   
   socialIcons = [
     {name = "github", url = "https://github.com/echorohit"},
-    {name = "twitter", url = "https://twitter.com/Twittsrohit"},
-    {name = "facebook", url = "https://facebook.com/rohitatfacebuk"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/rohitkrchoudhary/"},
     {name = "email", url = "mailto:mrohitchoudhary@gmail.com"}
   ]
   
@@ -34,6 +33,10 @@ theme = 'PaperMod'
     url = "/experience/"
     weight = 20
   [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 25
+  [[menu.main]]
     name = "Education"
     url = "/education/"
     weight = 30
@@ -41,3 +44,7 @@ theme = 'PaperMod'
     name = "Skills"
     url = "/skills/"
     weight = 40
+  [[menu.main]]
+    name = "Blog"
+    url = "/blogs/"
+    weight = 50

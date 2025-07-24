@@ -1,4 +1,4 @@
-# Rohit Kumar Choudhary - Personal Website
+# Rohit Choudhary - Personal Website
 
 Welcome to my personal website and digital resume, built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 

@@ -6,81 +6,98 @@ draft = false
 
 # Technical Skills & Expertise
 
-## Core Technologies
+## Programming Languages
+- **Python** - Advanced proficiency in data science, ML, and backend development
+- **Golang** - High-performance backend services and microservices
+- **Node.js** - Server-side JavaScript development and APIs
+- **JavaScript** - Full-stack web development and modern ES6+ features
+- **TypeScript** - Type-safe frontend and backend development
 
-### Backend Development
-- **PHP** - Advanced proficiency in server-side development
-- **Backend Architecture** - Designing scalable and maintainable systems
-- **API Development** - REST, JSON API design and implementation
-- **Object-Oriented Programming** - Strong OOP principles and practices
+## Frameworks & Libraries
 
-### Database Technologies
-- **MySQL** - Database design, optimization, and management
-- **NoSQL (MongoDB)** - Document-based database solutions
+### Backend Frameworks
+- **FastAPI** - High-performance Python web framework for APIs
+- **Apache Airflow** - Workflow orchestration and ETL pipelines
+- **Kubebuilder** - Kubernetes controller development
+- **GraphQL** - API query language and runtime
+- **Express.js** - Node.js web application framework
 
-### Web Technologies
-- **JavaScript** - Client-side scripting and modern ES6+ features
-- **HTML5** - Semantic markup and modern web standards
-- **CSS** - Styling and responsive design
+### Frontend Frameworks
+- **React.js** - Modern component-based UI development
+- **Redux RTK** - State management for React applications
+- **Remix** - Full-stack React framework
+- **TypeScript** - Enhanced JavaScript with static typing
 
-### Server & Infrastructure
-- **Linux** - System administration and server management
-- **Apache** - Web server configuration and optimization
-- **NginX** - High-performance web server setup
+## Cloud & Infrastructure
 
-### Version Control & Collaboration
-- **Git** - Distributed version control and collaborative workflows
-- **SVN** - Centralized version control systems
-- **Agile** - Agile development methodologies and practices
+### Cloud Platforms
+- **AWS** - Solutions Architect certified, comprehensive cloud services
+- **Azure** - AI Engineer Associate certified, cloud-native development
+- **Google Cloud** - Multi-cloud architecture and deployment
 
-## Technologies of Interest
+### DevOps & Orchestration
+- **Kubernetes** - Container orchestration and CRD development
+- **Docker** - Containerization and microservices deployment
+- **Jenkins** - CI/CD pipeline automation
+- **Helm Charts** - Kubernetes application packaging
+- **Infrastructure as Code** - Automated infrastructure management
 
-### Emerging Technologies
-- **Python** - Exploring for data science and automation
-- **Node.js** - JavaScript runtime for server-side development
-- **SOLR** - Enterprise search platform
+## AI/ML & GenAI Technologies
 
-### Performance & Caching
-- **Memcache** - In-memory caching solutions
-- **CDN** - Content delivery network optimization
-- **Couchbase** - NoSQL database for high-performance applications
+### AI/ML Frameworks
+- **PyTorch** - Deep learning model development and training
+- **TensorFlow** - Machine learning and neural network frameworks
+- **Hugging Face** - Transformer models and NLP tasks
+- **MLflow** - ML lifecycle management and model tracking
 
-### Search & Analytics
-- **SOLR** - Full-text search and indexing
-- **Elasticsearch** - Real-time search and analytics
+### GenAI & LLM Tools
+- **LangChain** - Building applications with large language models
+- **OpenAI API** - GPT integration and prompt engineering
+- **Pinecone** - Vector database for similarity search
+- **RAG (Retrieval-Augmented Generation)** - Enhanced AI responses
+- **Prompt Engineering** - Optimizing AI model interactions
+- **LLM Fine-Tuning** - Custom model training and adaptation
+- **Model Serving** - Production ML model deployment
+- **Synthetic Data Generation** - AI-generated training data
 
-## Development Tools
+## Databases & Data Technologies
+- **PostgreSQL** - Advanced relational database management
+- **MySQL** - Traditional RDBMS for web applications
+- **DynamoDB** - NoSQL database for scalable applications
+- **Redis** - In-memory data store and caching
+- **Kafka** - Event streaming and message queuing
 
-### IDEs & Editors
-- **NetBeans** - Primary IDE for PHP development
-- **Sublime Text** - Lightweight code editor
-- **VS Code** - Modern development environment
+## Methodologies & Practices
 
-### Database Tools
-- **MySQL Workbench** - Database design and management
+### Development Methodologies
+- **Agile** - Iterative development and continuous delivery
+- **Scrum** - Sprint-based project management
+- **Kanban** - Visual workflow management
+- **MECE** - Mutually Exclusive, Collectively Exhaustive analysis
+- **80/20 Rule** - Pareto principle for prioritization
+- **SCQA** - Situation, Complication, Question, Answer framework
 
-### Development Environment
-- **Ubuntu** - Primary development operating system
-- **Chrome DevTools** - Browser debugging and optimization
-- **Xdebug** - PHP debugging and profiling
-- **JSHint** - JavaScript code quality analysis
+### Architecture Patterns
+- **Microservices** - Distributed system architecture
+- **Serverless** - Event-driven, scalable computing
+- **Event-Driven Design** - Asynchronous system communication
+- **Hexagonal Architecture** - Clean, testable code organization
+- **Orchestration** - Complex workflow management
 
-## Professional Skills
+## Leadership & Management Skills
+- **Project Management** - End-to-end project delivery
+- **Team Leadership** - Managing cross-functional teams (12+ developers)
+- **Mentoring** - Developer coaching and best practices
+- **Cross-Cultural Collaboration** - International team coordination
+- **Technical Strategy** - Architecture decisions and technology roadmaps
 
-### Software Architecture
-- Microservices design patterns
-- RESTful API architecture
-- Database schema design
-- Performance optimization
+## Certifications
+- **AWS Solutions Architect** - Cloud architecture and best practices
+- **Azure AI Engineer Associate** - AI/ML solutions on Azure platform
 
-### Project Management
-- Agile/Scrum methodologies
-- Code review processes
-- Quality assurance practices
-- Team collaboration
-
-### Problem Solving
-- Debugging complex issues
-- Performance bottleneck analysis
-- System optimization
-- Technical documentation
+## Recent Focus Areas
+- **MLOps Platforms** - End-to-end ML lifecycle management
+- **GenAI Applications** - Production-ready AI/ML products
+- **Kubernetes Operations** - Advanced container orchestration
+- **High-Performance Computing** - Scalable inference systems
+- **Developer Experience** - CLI tools and SDK development
